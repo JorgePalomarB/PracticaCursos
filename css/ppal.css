@@ -3,14 +3,14 @@
   padding: 0; }
 
 body {
-  background: #616161;
+  background: #9C27B0;
   display: flex;
   align-items: center;
   font-family: "Montserrat", sans-serif;
   padding: 10% 0 0 40%; }
 
 #boxInside {
-  background: #00BCD4;
+  background: #2196F3;
   border-radius: 100%;
   justify: center;
   padding: 5em 2em; }
